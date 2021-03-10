@@ -3,3 +3,11 @@ body{
     background-color: #CCFFFF;
     font-size: 90%;
  }
+ .navbar{
+     background-color: #00BBFF;
+ }
+
+ .jumbotron {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
